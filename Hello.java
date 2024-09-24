@@ -7,5 +7,6 @@ public class Hello {
         int a=input.nextInt();
         System.out.println("enter the number");
         System.out.println("you have entered "+a);
+
     }
 }
