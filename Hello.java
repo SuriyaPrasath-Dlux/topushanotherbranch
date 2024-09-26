@@ -4,4 +4,5 @@ class Hello{
         System.out.println("hello world");
         System.out.println("I am a developer");
         System.out.println("commit 1");
+        System.out.println("commit 2");
     }
